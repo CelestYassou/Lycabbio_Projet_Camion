@@ -1,0 +1,5 @@
+{
+  "name": "Lycabbio - Projet Camion",
+  "description": "Site web de l'association Lycabbio présentant l'équipe du projet et les données en temps réel des 9 ruches connectées (température, humidité, masse).",
+  "requestFramePermissions": []
+}
