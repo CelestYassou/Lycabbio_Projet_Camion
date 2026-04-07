@@ -1,5 +1,5 @@
 ![Notre camion](imagecamion2.png)
-# Lycabbio_Projet_Camion
+# Lycabbio Projet Camion
 Nous avons le plaisir de vous annoncer que l'intégralité du code source de notre projet SI Camion est désormais open source !
 Dans une volonté de transparence et pour favoriser l'évolution technologique du secteur, nous avons choisi de placer notre travail sous licence MIT. Cela signifie que vous pouvez désormais :
 - Consulter et cloner le code librement.
